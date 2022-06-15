@@ -1,4 +1,4 @@
-[![nspyrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=nspyrison&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![nspyrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=nspyrison&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 All inbuilt themes:-
